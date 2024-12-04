@@ -1,0 +1,6 @@
+[core]
+    remote = remote_storage2
+['remote "remote_storage"']
+    url = D:\pycharm programs\dvc
+['remote "remote_storage2"']
+    url = D:\pycharm programs\dvc\MyRemoteStorage
