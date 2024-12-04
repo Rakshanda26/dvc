@@ -7,7 +7,6 @@ Data = [
     {"name" : "abhi", "age": 27, "city": "delhi"},
     {"name" : "ram", "age": 48, "city": "pune"},
     {"name" : "shyam", "age": 38, "city": "banglore"},
-    {"name" : "mohan", "age": 32, "city": "banglore"}
 ]
 
 Data = pd.DataFrame(Data)
